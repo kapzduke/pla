@@ -48,7 +48,7 @@ mesh: {
   divisions: 5
   color1: 887831
   color2: 89a021
-  radius: 1.11
+  radius: 11.11
   octaves: 4
   persistence: 0.67
   scale: 1
@@ -59,7 +59,7 @@ minZoom: 0.17
 orbitRadius: 13
 orbitSpacing: 140
 parent: sun
-radius: 1.21
+radius: 12.21
 solarSystem: sun
 sectorSeed: 5
 startSector: 0
